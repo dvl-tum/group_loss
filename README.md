@@ -1,5 +1,5 @@
 # The Group Loss for Deep Metric Learning
-Official PyTorch implementation of [The Group Loss for Deep Metric Learning" paper (ECCV 2020)]
+Official PyTorch implementation of [The Group Loss for Deep Metric Learning paper (ECCV 2020)]
 (https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520273.pdf)
 published at European Conference on Computer Vision (ECCV) 2020.
 
