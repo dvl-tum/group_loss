@@ -51,6 +51,8 @@ Stanford/images/00003
 Stanford/images/22634
 ````
 
+where ````001, 002, ..., N ```` are the IDs of the folders for each class in the dataset.
+
 ## Training
 
 In order to train, evaluate and save a model, run the following command:
